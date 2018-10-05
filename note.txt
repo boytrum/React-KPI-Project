@@ -1,1 +1,10 @@
-abc
+GIT tutorial 
+
+git config --global user.name username
+--go to a folder
+cd D:\ReactProject\StoreManageFE
+--clone new repository to this local computer foler
+git clone https://github.com/boytrum/React-KPI-Project.git
+
+--when there are any change
+select: Commit -> Publish branch
